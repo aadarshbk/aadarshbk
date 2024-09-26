@@ -1,4 +1,4 @@
-# 💫 About Me:
+BACKEND SOFTWARE ENGINEER
 <br><br><br>🌱 I’m currently learning  JS
 
 
