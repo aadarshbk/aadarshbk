@@ -1,5 +1,5 @@
 BACKEND SOFTWARE ENGINEER
-<br><br><br>🌱 I’m currently learning  JS
+<br><br><br>🌱 I’m currently learning  TS
 
 
 ## 🌐 Socials:
