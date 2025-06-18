@@ -1,5 +1,4 @@
-BACKEND SOFTWARE ENGINEER
-<br><br><br>🌱 I’m currently learning  TS
+SOFTWARE ENGINEER
 
 
 ## 🌐 Socials:
