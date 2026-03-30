@@ -29,19 +29,3 @@
 
 </p>
 
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadarshbk&theme=tokyonight&hide_border=true&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aadarshbk&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshbk&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-
