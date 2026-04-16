@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aadarsh</h1>
 
 <p align="center">
-  🚀 Backend Engineer | 📊 Data Engineer | 🤖 AI Explorer
+  SOFTWARE ENGINEER
 </p>
 
 <p align="center">
