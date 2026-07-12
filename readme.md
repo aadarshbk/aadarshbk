@@ -8,12 +8,6 @@
   SOFTWARE ENGINEER
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Scalable+APIs;Working+with+Data+%26+AI;Future+SaaS+Founder;Always+Learning+New+Tech" />
-</p>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
